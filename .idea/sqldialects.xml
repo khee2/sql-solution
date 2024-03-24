@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/group-by/저자 별 카테고리 별 매출액 집계하기.sql" dialect="GenericSQL" />
+  </component>
+</project>
