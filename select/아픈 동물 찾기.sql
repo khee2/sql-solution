@@ -1,0 +1,5 @@
+-- SQL에서 동등비교는 ==가 아니라 =를 써야 한다는 점을 유의하자.
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+WHERE INTAKE_CONDITION = 'Sick'
+ORDER BY ANIMAL_ID
